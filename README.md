@@ -36,5 +36,7 @@ https://cusjc.ca/mrp/dataandthedisplaced/predicting-how-a-crisis-unfolds/
 
 https://www.internal-displacement.org/expert-opinion/what-drives-internal-displacement-a-machine-learning-approach
 
+https://tasks.hotosm.org/projects/196
+
 
 
