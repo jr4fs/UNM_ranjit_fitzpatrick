@@ -7,12 +7,13 @@ The goal of this hackathon is to explore and prototype different options for gen
 
 ## Our Contributions
 
+## Case Study 1: Afghanistan 
 ## Future Work
 
 ## How to Use this Repo
 
 ## Detailed Overview of Research and Work
 
-# https://drive.google.com/drive/folders/1NOInwowDxQ53maoIytwMtRervMZt-yKQ?usp=sharing 
+https://drive.google.com/drive/folders/1NOInwowDxQ53maoIytwMtRervMZt-yKQ?usp=sharing 
 
 
