@@ -23,9 +23,10 @@ The goal of this hackathon is to explore and prototype different options for gen
       - Afghanistan, displacement, children
       - Afghanistan, crisis, children
       - Afghanistan, war, children
-2. Example Tweet Output: 
-3. Queried for "Afghanistan" from primary sources
-4. Parsed data into standardized format
+2. Example Tweet Output: Example Tweet: this is heartbreaking!!!\nWe are the victims. No mother or father would want to see their children live their whole life with no legs. \nWar brings only misery. Let's bring an end to it. \n#Afghanistan #Farah #Kandahar #Taliban\n#Landmines #War #Children #ChildrenUnderAttack https://t.co/u4cAbCDVbQ
+3. Extracted Tags: Afghanistan, Farah, Kandahar, Taliban
+4. Queried for "Afghanistan" from primary sources
+5. Parsed data into standardized format
 
 ## Future Work
 - Utilize more sophisticated text models to process tweets
