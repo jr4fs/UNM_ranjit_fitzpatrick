@@ -6,7 +6,12 @@
 The goal of this hackathon is to explore and prototype different options for generating infrastructure damage values that can be applied to MDI’s predictive analytics model.
 
 ## Our Contributions
-
+  - Explored extracting information from tweets scraped from Twitter
+  - Using a tweet scraper, we collected tweets matching a variety of keywords relating to conflicts and displacement
+  - We used a Named Entity Recognition tagger to extract tags from each tweet that captured the most important words from each tweet
+  - We explored two main primary sources taken from the IDMC and UNHCR datasets; performed data visualization and feature extraction
+### System Design
+![High Level Overview](idea 2.pdf)
 ## Case Study 1: Afghanistan 
 ## Future Work
 
