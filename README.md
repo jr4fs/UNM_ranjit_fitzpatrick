@@ -36,7 +36,9 @@ The goal of this hackathon is to explore and prototype different options for gen
 - Work to ensure data privacy, making sure the data extracted does not compromise the safety of those who have been displaced
 
 ## How to Use this Repo
-
+- ```data_exploration```  contains two colab notebooks, one for the UNHCR: Data on forcibly displaced populations and stateless persons: https://data.humdata.org/organization/unhcr?groups=afg&q=&ext_page_size=25, and one for the IDMC: Demographics and Locations of Forcibly Displaced Persons: https://data.humdata.org/dataset/unhcr-population-data-for-afg. These notebooks contain data visualizations and basic machine learning models for predicting number of displacements in following years. Note, your import path might need to change in order to access the datasets
+- ```data_sources``` contains .csv files of the datasets used for this hackathon
+- ```final_pipeline``` contains two colab notebooks, one for the extraction of primary data using the two sources and one for querying the Twitter API. It also includes an example of how to query for a specific country and returns standardized dataframe. 
 
 
 ## Detailed Overview of Research and Work
