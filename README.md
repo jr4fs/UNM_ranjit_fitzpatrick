@@ -11,7 +11,7 @@ The goal of this hackathon is to explore and prototype different options for gen
   - We used a Named Entity Recognition tagger to extract tags from each tweet that captured the most important words from each tweet
   - We explored two main primary sources taken from the IDMC and UNHCR datasets; performed data visualization and feature extraction
 ### System Design
-![High Level Overview](idea 2.pdf)
+![High Level Overview](https://github.com/jr4fs/savethechildren/blob/main/idea%202-1.png?raw=true)
 ## Case Study 1: Afghanistan 
 ## Future Work
 
